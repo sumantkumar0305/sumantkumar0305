@@ -91,8 +91,8 @@ My career goal is to become a professional **Full Stack Engineer** and expand my
 
 ## 📫 How to Reach Me
 
-* 📧 Email: [your-email@example.com](mailto:sumant.kumar0305@gmail.com)
-* 💼 LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/in/sumant-kumar-dev/)
+* 📧 Email: sumant.kumar0305@gmail.com
+* 💼 LinkedIn: [[Your LinkedIn Link](https://www.linkedin.com/in/sumant-kumar-dev/)](https://www.linkedin.com/in/sumant-kumar-dev/)
 * 🌐 Portfolio: Your Portfolio Link
 
 ---
