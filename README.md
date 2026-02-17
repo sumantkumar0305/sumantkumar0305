@@ -26,48 +26,47 @@ I enjoy creating responsive interfaces using **React and Material UI**, while al
 My career goal is to become a professional **Full Stack Engineer** and expand my expertise into **Artificial Intelligence and Machine Learning** in the future.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-* C++
-* JavaScript
-* Python
+💻 C++ (DSA)  🐍 Python  📜 JavaScript
+
+---
 
 ### 🌐 Web Development
 
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* MySQL
-* REST APIs
-* Material UI
-* HTML5 & CSS3
+REST APIs  Material UI
+
+#### 🎨 Frontend
+
+⚛️ React.js  🎨 HTML5  🎯 CSS3  📜 JavaScript
+
+#### ⚙️ Backend
+
+🟢 Node.js  🚀 Express.js  🔥 Flask
+
+#### 🗄️ Database
+
+🍃 MongoDB  🐬 MySQL / SQL
+
+---
 
 ### 📊 Data Science
 
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Data Analysis
+🔢 NumPy  🐼 Pandas  📊 Matplotlib  📈 Seaborn
+
+---
 
 ### ⚙️ Tools & Technologies
 
-* Git & GitHub
-* VS Code
-* Postman
-* Render Deployment
-* NPM
+🔧 Git & GitHub  💻 VS Code  📮 Postman  🚀 Render Deployment  📦 NPM
+
+---
 
 ### 🧠 Computer Science Fundamentals
 
-* Data Structures & Algorithms
-* OOP
-* DBMS
-* Operating Systems
+📚 Data Structures & Algorithms  🧩 OOPs   ⚙️ Operating Systems
 
 ---
 
