@@ -66,7 +66,7 @@ REST APIs  Material UI
 
 ### 🧠 Computer Science Fundamentals
 
-📚 Data Structures & Algorithms  🧩 OOPs   ⚙️ Operating Systems
+📚 Data Structures & Algorithms  🧩 OOPs  ⚙️ Operating Systems
 
 ---
 
