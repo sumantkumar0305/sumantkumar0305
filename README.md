@@ -39,61 +39,92 @@ I'm a passionate developer interested in building modern, scalable, and user-fri
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,mysql&theme=light" alt="C++, Python, JavaScript, SQL"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,mysql&theme=light" alt="C++, Python, JavaScript, SQL"/>
+  </a>
 </p>
+
+---
 
 ### 🌐 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,materialui,tailwind,vite&theme=light" alt="React, HTML, CSS, Material UI, Tailwind CSS, Vite"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,materialui,tailwind,vite&theme=light" alt="React, HTML5, CSS3, Material UI, Tailwind CSS, Vite"/>
+  </a>
 </p>
+
+---
 
 ### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=light" alt="Node.js, Express.js, Flask"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=light" alt="Node.js, Express.js, Flask"/>
+  </a>
 </p>
+
+---
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" alt="MongoDB, MySQL"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" alt="MongoDB, MySQL"/>
+  </a>
 </p>
+
+---
 
 ### 🤖 Machine Learning & Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-learn"/>
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Data Visualization"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sklearn&theme=light" alt="Python, Scikit-learn"/>
+  </a>
 </p>
 
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Machine Learning Model Training
-- Data Visualization
-- Model Evaluation
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+</p>
+
+#### 🔍 ML Workflow Capabilities
+- ⚙️ **Data Preprocessing**
+- 📊 **Exploratory Data Analysis (EDA)**
+- 🛠️ **Feature Engineering**
+- 🤖 **Machine Learning Model Training**
+- 📈 **Data Visualization**
+- 🎯 **Model Evaluation & Tuning**
+
+---
 
 ### 🧠 Computer Science Fundamentals
 
-<p>
-  <img src="https://img.shields.io/badge/DSA-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA"/>
-  <img src="https://img.shields.io/badge/OOP-Programming-6A5ACD?style=for-the-badge" alt="OOP"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-CS_Fundamentals-008080?style=for-the-badge" alt="Operating Systems"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA with C++"/>
+  <img src="https://img.shields.io/badge/OOP-Object_Oriented_Programming-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white" alt="OOP"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-CS_Fundamentals-008080?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems"/>
   <img src="https://img.shields.io/badge/DBMS-Database_Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/Computer_Networks-Networking-2563EB?style=for-the-badge" alt="Computer Networks"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-Networking-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networks"/>
 </p>
 
-### ⚙️ Tools & Deployment
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,cloudflare&theme=light" alt="Git, GitHub, VS Code, Postman, AWS, Cloudflare"/>
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab"/>
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/>
+### 🛠️ Tools & Deployment
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,cloudflare&theme=light" alt="Git, GitHub, VS Code, Postman, AWS, Cloudflare"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 </p>
 
 ---
