@@ -1,123 +1,166 @@
-<div align="center">
 
-# Sumant Kumar
+# Hi there 👋, I'm Sumant Kumar
 
-**Full-stack developer · Data science & machine learning · DSA in C++**
-
-I build web apps from the database to the interface, and train models that end up inside them.
-
-<a href="https://sumant-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/sumant-kumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sumant.kumar0305@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-
-</div>
+🎯 **Aspiring Full-Stack Developer | MERN Stack | Data Science & Machine Learning | DSA in C++**
 
 ---
 
-## About
+## 🚀 About Me
 
-I'm a Computer Science and Engineering student at JNU. I like building modern, user-friendly web applications and exploring data-driven solutions with machine learning.
+I'm a passionate developer interested in building modern, scalable, and user-friendly web applications and exploring data-driven solutions using Machine Learning.
 
-- **Full-stack:** MERN apps with React and Material UI on the front, Node, Express and Flask behind them
-- **Data:** MongoDB and MySQL for storage, Python for analysis, visualization and model training
-- **Problem solving:** Data Structures and Algorithms in C++
-- **Next:** growing as a Full-Stack and AI/ML Engineer
-
-## Tech stack
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data &amp; ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
-      <br/>
-      <sub>Preprocessing · EDA · Feature engineering · Model training and evaluation · Visualization</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools &amp; Deploy</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>CS fundamentals</b></td>
-    <td>Data Structures &amp; Algorithms · OOP · Operating Systems · DBMS · Computer Networks</td>
-  </tr>
-</table>
-
-## Featured projects
-
-| Project | What it does | Built with | Links |
-| --- | --- | --- | --- |
-| **VisitSmart** | Nature exploration and hotel booking platform for discovering destinations and accommodation | React, Material UI, Node.js, Express, MongoDB Atlas, AWS, Cloudinary | [Code](https://github.com/sumantkumar0305/visitSmart) · [Demo](https://visitsmart-url.onrender.com) |
-| **HireReady AI** | Career prep with resume analysis, job matching and interview practice powered by Gemini | React, Tailwind, Node.js, Express, MySQL, Sequelize, Gemini API | [Code](https://github.com/sumantkumar0305/HireReady) |
-| **OLX Phone Price Prediction** | Predicts used-phone resale prices from brand, RAM, storage, network, warranty and accessories | Python, Pandas, NumPy, Scikit-learn, Flask, React, Material UI | |
-| **Adaptive Path Planning** | Simulation of path planning and collision avoidance for autonomous vehicles on unstructured Indian roads | Python, simulation, perception | |
-| **Library Management System** | C++ command-line app for books, members, inventory and issue/return | C++17, OOP, STL | [Code](https://github.com/sumantkumar0305/Library-Management) |
-| **Wall Calendar** | Calendar with date selection, saved notes, holidays and seasonal images | React, Material UI, localStorage | |
-
-## Currently
-
-- Building full-stack applications with the MERN stack
-- Sharpening DSA and problem solving in C++
-- Exploring AI and ML through practical projects
-- Learning deployment, scalable applications and system design
-
-## Open to collaborating on
-
-Full-stack web apps · MERN projects · Open source · AI/ML applications · Data science projects
+- 💻 Experienced in building full-stack applications using the **MERN Stack**.
+- 🎨 Building responsive user interfaces with **React.js and Material UI**.
+- ⚙️ Developing backend services and REST APIs using **Node.js, Express.js, and Flask**.
+- 🗄️ Working with **MongoDB and MySQL** for database management.
+- 🤖 Exploring Machine Learning through data preprocessing, feature engineering, EDA, and model training.
+- 📊 Using Python libraries for data analysis and visualization.
+- 🧠 Practicing **Data Structures and Algorithms using C++** to improve problem-solving skills.
+- 🚀 Interested in growing as a **Full-Stack Engineer and AI/ML Engineer**.
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-**Always learning, always building.**
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 Machine Learning & Data Science
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Machine Learning Model Training
+- Data Visualization
+- Model Evaluation
+
+### 🧠 Computer Science Fundamentals
+- Data Structures and Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Database Management Systems (DBMS)
+- Computer Networks
+
+### ⚙️ Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 VisitSmart
+A full-stack nature exploration and hotel booking platform that helps users discover destinations and explore accommodation options.
+
+**Tech Stack:** React, Material UI, Node.js, Express.js, MongoDB Atlas, AWS, Cloudinary
+
+🔗 [GitHub Repository](https://github.com/sumantkumar0305/visitSmart) | [Live Demo](https://visitsmart-url.onrender.com)
+
+### 🤖 HireReady AI
+An AI-powered career preparation platform featuring resume analysis, job matching, and interview preparation using the Google Gemini API.
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MySQL, Sequelize, Gemini API
+
+🔗 [GitHub Repository](https://github.com/sumantkumar0305/HireReady)
+
+### 📱 OLX Phone Price Prediction
+A Machine Learning project that predicts used mobile phone resale prices based on brand, RAM, storage, network, warranty, and accessories.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Flask, React, Material UI
+
+### 🚗 Adaptive Path Planning for Autonomous Vehicles
+A simulation-based project focused on adaptive path planning and collision avoidance for autonomous vehicles on unstructured Indian roads.
+
+**Tech Stack:** Python, Simulation, Path Planning, Perception, Collision Avoidance
+
+### 📚 Library Management System
+A C++ command-line application for managing books, members, inventory, and issue/return operations using OOP and STL data structures.
+
+**Tech Stack:** C++17, OOP, STL, `unordered_map`, `unordered_set`
+
+🔗 [GitHub Repository](https://github.com/sumantkumar0305/Library-Management)
+
+### 📅 Wall Calendar
+A React-based calendar application featuring date selection, personal notes saved in local storage, holidays, and seasonal images.
+
+**Tech Stack:** React, Material UI, JavaScript, localStorage
+
+---
+
+## 📈 What I'm Currently Working On
+
+- 🚀 Building full-stack applications using the MERN stack.
+- 🧠 Improving my DSA and problem-solving skills using C++.
+- 🤖 Exploring Artificial Intelligence and Machine Learning through practical projects.
+- 📊 Improving data analysis, visualization, and model evaluation skills.
+- ☁️ Learning about deployment, scalable applications, and system design.
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- Full-Stack Web Applications
+- MERN Stack Projects
+- Open-Source Projects
+- AI/ML Applications
+- Data Science Projects
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:sumant.kumar0305@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumant-kumar-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://sumant-portfolio-one.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/sumantkumar0305" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving challenging problems, exploring new technologies, and turning ideas into real-world applications through code. 🚀
+
+---
+
+⭐ **Always learning, always building!**
